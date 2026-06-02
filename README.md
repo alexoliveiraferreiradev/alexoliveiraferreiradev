@@ -28,7 +28,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor back-end focado na cria�
 ## 📊 Estatísticas do GitHub
 
 <!-- Substitua "SEU_USUARIO_AQUI" pelo seu username do GitHub no link abaixo -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark)](https://github.com/SEU_USUARIO_AQUI)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=dark)](https://github.com/alexoliveiraferreiradev)
 
 ## 📫 Como me encontrar
 
