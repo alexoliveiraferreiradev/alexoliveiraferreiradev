@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil no GitHub!
 ## 🌐 Como me achar
 
 <p align="left">
-  <a href="https://github.com/alexoliveiraferreiradev">
+  <a hidden href="https://github.com/alexoliveiraferreiradev">
     <img src="https://img.shields.io/badge/GitHub-ALEXOLIVEIRAFERREIRADEV-181717?style=for-the-badge&logo=github"   />  
   </a>
   <br>  
@@ -40,9 +40,10 @@ Bem-vindo ao meu perfil no GitHub!
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
-
-[![GitHub stats](https://github-readme-stats-delta-hazel.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=dark)](https://github.com/alexoliveiraferreiradev)
-[![Top Langs](https://github-readme-stats-delta-hazel.vercel.app/api/top-langs/?username=alexoliveiraferreiradev&layout=compact&theme=dark)](https://github.com/alexoliveiraferreiradev)
-
+<p align = "left">    
+  <img height="170em" src = "https://github-readme-stats-delta-hazel.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=tokyonight" >
+  <img height="170em" src = "https://github-readme-stats-delta-hazel.vercel.app/api/top-langs/?username=alexoliveiraferreiradev&layout=compact&theme=tokyonight" >
+</p>
+    
 ---
 ⭐️ *Sinta-se à vontade para explorar meus repositórios e deixar uma estrela nos projetos que achar interessantes!*
