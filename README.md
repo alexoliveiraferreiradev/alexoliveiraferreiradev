@@ -55,7 +55,7 @@ Bem-vindo ao meu perfil no GitHub!
 
 <p align = "left">    
   <img height="170em" src = "https://github-readme-stats-delta-hazel.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=tokyonight" >
-  <img height="170em" src = "https://github-readme-stats-delta-hazel.vercel.app/api/top-langs/?username=alexoliveiraferreiradev&layout=compact&theme=tokyonight" >
+  <img height="160em" src = "https://github-readme-stats-delta-hazel.vercel.app/api/top-langs/?username=alexoliveiraferreiradev&layout=compact&theme=tokyonight" >
 </p>
     
 ---
