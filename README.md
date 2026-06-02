@@ -1,4 +1,4 @@
-# Olá, eu sou o Alex Oliveira Ferreira! 👋
+# Olá 👋, eu sou o Alex Oliveira Ferreira! 
 
 **Back-end Developer | C# & .NET**
 
