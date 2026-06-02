@@ -40,9 +40,7 @@ Bem-vindo ao meu perfil no GitHub!
 ### Mensageria & Eventos
 <div>  
   <img height="70" width= "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />     
-<a href="https://kafka.apache.org/" target="_blank">
   <img height="70" width= "70" src="https://skillicons.dev/icons?i=kafka" height="70" alt="Apache Kafka" />
-</a>
 </div>
 
 ### DevOps & Tools
