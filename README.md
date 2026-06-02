@@ -16,13 +16,10 @@ Bem-vindo ao meu perfil no GitHub!
 ## 🌐 Como me achar
 
 <p align="left">
-  <a hidden href="https://github.com/alexoliveiraferreiradev">
-    <img src="https://img.shields.io/badge/GitHub-ALEXOLIVEIRAFERREIRADEV-181717?style=for-the-badge&logo=github"   />  
-  </a>
-  <br>  
-  <a href="https://instagram.com/__alex.oliver">
-    <img src="https://img.shields.io/badge/Instagram-@__alex.oliver-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>    
+  <a href="https://github.com/alexoliveiraferreiradev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://instagram.com/__alex.oliver"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:alexoliveiraferreiradev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href= "https://www.linkedin.com/in/alex-oliveira-ferreira-493196193/"><img src ="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link="></a>
 </p>
 
 
