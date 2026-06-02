@@ -13,6 +13,19 @@ Bem-vindo ao meu perfil no GitHub!
 * 🛡️ Prezo pelas boas práticas de versionamento, mantendo meus commits assinados e verificados via GPG.
 * ⚡ **Curiosidades:** Quando não estou no Visual Studio, provavelmente estou jogando (PlayStation/Steam), treinando musculação ou cuidando do meu filhote de Pug!
 
+## 🌐 Como me achar
+
+<p align="left">
+  <a href="[https://github.com/herbertcarnaubadesouza](https://github.com/alexoliveiraferreiradev)">
+    <img src="https://img.shields.io/badge/GitHub-ALEXOLIVEIRAFERREIRADEV-181717?style=for-the-badge&logo=github"   />  
+  </a>
+  <br>  
+  <a href="https://instagram.com/__alex.oliver">
+    <img src="https://img.shields.io/badge/Instagram-@__alex.oliver-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>    
+</p>
+
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Backend
