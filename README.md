@@ -2,7 +2,7 @@
 
 **Back-end Developer | C# & .NET**
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor back-end focado na criação de sistemas robustos e escaláveis.
+Bem-vindo ao meu perfil no GitHub!
 
 ## 👨‍💻 Sobre mim
 
