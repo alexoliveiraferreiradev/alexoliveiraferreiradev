@@ -29,12 +29,11 @@ Bem-vindo ao meu perfil no GitHub!
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-
-**Banco de Dados & Mapeamento:**
-* SQL Server | Redis
-* Entity Framework Core (para operações de comando) | Dapper (para consultas otimizadas)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -43,11 +42,6 @@ Bem-vindo ao meu perfil no GitHub!
 ## 📊 Estatísticas do GitHub
 
 [![GitHub stats](https://github-readme-stats-delta-hazel.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=dark)](https://github.com/alexoliveiraferreiradev)
-
-## 📫 Como me encontrar
-
-* **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
-* **E-mail:** [Me envie um e-mail](mailto:SEU_EMAIL_AQUI)
 
 ---
 ⭐️ *Sinta-se à vontade para explorar meus repositórios e deixar uma estrela nos projetos que achar interessantes!*
