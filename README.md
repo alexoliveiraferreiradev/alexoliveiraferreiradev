@@ -28,7 +28,7 @@ Bem-vindo ao meu perfil no GitHub!
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Backend
+### Backend 
 <div>  
 <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
 <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -37,7 +37,7 @@ Bem-vindo ao meu perfil no GitHub!
 <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />           
 </div>
 
-## Mensageria & Eventos
+### Mensageria & Eventos
 <div>  
   <img height="70" width= "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />     
  <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;" />
@@ -52,6 +52,7 @@ Bem-vindo ao meu perfil no GitHub!
 </div>
 
 ## 📊 Estatísticas do GitHub
+
 <p align = "left">    
   <img height="160em" src = "https://github-readme-stats-delta-hazel.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=tokyonight" >
   <img height="160em" src = "https://github-readme-stats-delta-hazel.vercel.app/api/top-langs/?username=alexoliveiraferreiradev&layout=compact&theme=tokyonight" >
