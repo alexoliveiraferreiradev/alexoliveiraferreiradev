@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil no GitHub!
 * 🚀 No momento, estou trabalhando em projetos focados em **microsserviços e separação de domínios**.
 * 🏆 Recentemente, desenvolvi um sistema de marketplace implementando tecnologias como **Redis, SQL Server e JWT**.
 * 🛡️ Prezo pelas boas práticas de versionamento, mantendo meus commits assinados e verificados via GPG.
-* ⚡ **Curiosidades:** Quando não estou no Visual Studio, provavelmente estou jogando (PlayStation/Steam), treinando musculação ou cuidando do meu filhote de Pug!
+* ⚡ **Curiosidades:** Quando não estou no Visual Studio, provavelmente estou jogando (PlayStation), treinando musculação ou cuidando do meu filhote de Pug!
 
 ## 🌐 Como me achar
 
