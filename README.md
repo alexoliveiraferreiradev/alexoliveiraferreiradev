@@ -15,20 +15,21 @@ Bem-vindo ao meu perfil no GitHub!
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Ecossistema & Linguagem:**
-* C# | .NET
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 
 **Banco de Dados & Mapeamento:**
 * SQL Server | Redis
 * Entity Framework Core (para operações de comando) | Dapper (para consultas otimizadas)
 
-**Infraestrutura, Ferramentas & Arquitetura:**
-* Git | Docker | Visual Studio | Miro (para diagramação de Event Storming)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
-<!-- Substitua "SEU_USUARIO_AQUI" pelo seu username do GitHub no link abaixo -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=dark)](https://github.com/alexoliveiraferreiradev)
+[![GitHub stats](https://github-readme-stats-delta-hazel.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=dark)](https://github.com/alexoliveiraferreiradev)
 
 ## 📫 Como me encontrar
 
