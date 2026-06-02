@@ -42,6 +42,7 @@ Bem-vindo ao meu perfil no GitHub!
 ## 📊 Estatísticas do GitHub
 
 [![GitHub stats](https://github-readme-stats-delta-hazel.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=dark)](https://github.com/alexoliveiraferreiradev)
+[![Top Langs](https://github-readme-stats-delta-hazel.vercel.app/api/top-langs/?username=alexoliveiraferreiradev&layout=compact&theme=dark)](https://github.com/alexoliveiraferreiradev)
 
 ---
 ⭐️ *Sinta-se à vontade para explorar meus repositórios e deixar uma estrela nos projetos que achar interessantes!*
