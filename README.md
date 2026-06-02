@@ -29,15 +29,19 @@ Bem-vindo ao meu perfil no GitHub!
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Backend
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)
+<div>  
+<img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
+<img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img height="70" width= "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-plain.svg"  /> 
+<img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />          
+</div>
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
+<div>
+  <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+</div>
 
 ## 📊 Estatísticas do GitHub
 <p align = "left">    
