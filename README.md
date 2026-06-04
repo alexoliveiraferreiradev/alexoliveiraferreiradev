@@ -46,10 +46,6 @@ Bem-vindo ao meu perfil no GitHub!
   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />          
 </div>
 
-## 📊 Estatísticas do GitHub
 
-<p align = "left">    
-</p>
-    
 ---
 ⭐️ *Sinta-se à vontade para explorar meus repositórios e deixar uma estrela nos projetos que achar interessantes!*
