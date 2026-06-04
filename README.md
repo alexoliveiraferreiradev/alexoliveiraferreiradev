@@ -27,32 +27,28 @@ Bem-vindo ao meu perfil no GitHub!
 
 ### Backend 
 <div>  
-<img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
-<img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img height="70" width= "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-plain.svg"  /> 
-<img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
+<img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
+<img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
 </div>
 
 ### Mensageria & Eventos
 <div>  
-  <img height="70" width= "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />     
-  <img height="70" width= "70" src="https://skillicons.dev/icons?i=kafka" height="70" alt="Apache Kafka" />
+  <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />     
+  <img height="50" width= "60" src="https://skillicons.dev/icons?i=kafka" height="70" alt="Apache Kafka" />
 </div>
 
 ### DevOps & Tools
 <div>
-  <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-  <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />   
-  <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />   
-  <img height="70" width= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />          
+  <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+  <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />   
+  <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />          
 </div>
 
 ## 📊 Estatísticas do GitHub
 
 <p align = "left">    
-  <img height="170em" src = "https://github-readme-stats-delta-hazel.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=tokyonight" >
-  <img height="160em" src = "https://github-readme-stats-delta-hazel.vercel.app/api/top-langs/?username=alexoliveiraferreiradev&layout=compact&theme=tokyonight" >
 </p>
     
 ---
