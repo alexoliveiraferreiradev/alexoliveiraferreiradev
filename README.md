@@ -46,6 +46,19 @@ Bem-vindo ao meu perfil no GitHub!
   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />          
 </div>
 
+## Estatíticas 
+<p>
+    <div align="left">
+      <img
+        height="160"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+      />
+      <img
+        height="130"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexoliveiraferreiradev&layout=compact&custom_title=Tecnologias&langs_count=9&theme=dark"
+      />
+    </div>
+</p>
 
 ---
 ⭐️ *Sinta-se à vontade para explorar meus repositórios e deixar uma estrela nos projetos que achar interessantes!*
