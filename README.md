@@ -34,8 +34,8 @@ Bem-vindo ao meu perfil no GitHub!
   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />   
-  <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />     
-   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/vstudio.svg" />      
+  <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />  
+  <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />   
 </div>
 
 
