@@ -30,7 +30,6 @@ Bem-vindo ao meu perfil no GitHub!
 <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />     
-  <img height="50" width= "60" src="https://skillicons.dev/icons?i=kafka" height="70" alt="Apache Kafka" />
   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
   <img height="50" width= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />   
