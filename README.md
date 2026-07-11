@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Alex Oliveira Ferreira! 
 
-**Pleno Back-end Developer | C# & .NET**
+**Desenvolvedor Back-end Pleno | .NET, C# & Microsserviços |**
 
 Bem-vindo ao meu perfil no GitHub!
 
