@@ -8,9 +8,9 @@ Bem-vindo ao meu perfil no GitHub!
 
 * 🎓 Atualmente, sou aluno de pós-graduação em **Arquitetura de Sistemas (.NET)** na **FIAP**.
 * 🏗️ Projeto e aplico padrões avançados de arquitetura de software, como Domain-Driven Design (DDD), Clean Architecture e CQRS, utilizando ferramentas como o Miro para a condução de sessões de Event Storming e modelagem visual de processos de negócio..
-* 🚀 No momento, estou trabalhando em projetos focados em **microsserviços e separação de domínios**.
-* 🏆 Desenvolvi o ecossistema de marketplace da plataforma FIAP Cloud Games. Otimizei a performance e a segurança do sistema implementando cache distribuído com Redis, autenticação via JWT e uma abordagem híbrida de ORM utilizando Entity Framework Core para comandos e Dapper para consultas no SQL Server.
-* 🛡️ Prezo pelas boas práticas de versionamento, mantendo meus commits assinados e verificados via GPG.
+* 🚀 O que estou construindo agora: Evoluindo a arquitetura de microsserviços existente com a criação e integração de novos domínios, como PedidoAPI e BibliotecaAPI, com o objetivo de aprimorar a separação de responsabilidades e a escalabilidade do sistema.
+* 🏆 Destaques: Do projeto monolito refatorei o mesmo para um ecossistema completo de microsserviços (Usuário, Notificação, Pagamentos e Catálogo). Fui responsável por toda a orquestração da infraestrutura, criando imagens Docker independentes para cada serviço e configurando manifestos Kubernetes, garantindo alta portabilidade, resiliência no cluster e facilidade na execução e validação local.
+* 🛡️ Prezo pelas boas práticas de versionamento, mantendo meus commits assinados e verificados.
 * ⚡ **Curiosidades:** Quando não estou no Visual Studio, provavelmente estou jogando (PlayStation), treinando musculação ou cuidando do meu filhote de Pug!
 
 ## 🌐 Como me achar
