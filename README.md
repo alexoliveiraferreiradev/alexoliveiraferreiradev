@@ -4,14 +4,33 @@
 
 Bem-vindo ao meu perfil no GitHub!
 
-## 👨‍💻 Sobre mim
+###  👨‍💻 Sobre mim
 
-* 🎓 Atualmente, sou aluno de pós-graduação em **Arquitetura de Sistemas (.NET)** na **FIAP**.
-* 🏗️ Projeto e aplico padrões avançados de arquitetura de software, como Domain-Driven Design (DDD), Clean Architecture e CQRS, utilizando ferramentas como o Miro para a condução de sessões de Event Storming e modelagem visual de processos de negócio..
-* 🚀 O que estou construindo agora: Evoluindo a arquitetura de microsserviços existente com a criação e integração de novos domínios, como PedidoAPI e BibliotecaAPI, com o objetivo de aprimorar a separação de responsabilidades e a escalabilidade do sistema.
-* 🏆 Destaques: Do projeto monolito refatorei o mesmo para um ecossistema completo de microsserviços (Usuário, Notificação, Pagamentos e Catálogo). Fui responsável por toda a orquestração da infraestrutura, criando imagens Docker independentes para cada serviço e configurando manifestos Kubernetes, garantindo alta portabilidade, resiliência no cluster e facilidade na execução e validação local.
-* 🛡️ Prezo pelas boas práticas de versionamento, mantendo meus commits assinados e verificados.
-* ⚡ **Curiosidades:** Quando não estou no Visual Studio, provavelmente estou jogando (PlayStation), treinando musculação ou cuidando do meu filhote de Pug!
+* 🎓 Atualmente sou aluno de pós-graduação em **Arquitetura de Sistemas (.NET)** na FIAP.
+* 🏗️ Projeto e aplico padrões avançados de arquitetura de software, como **Domain-Driven Design (DDD)**, **Clean Architecture** e **CQRS**, utilizando ferramentas como o Miro para conduzir sessões de Event Storming e modelagem visual de processos de negócio.
+
+---
+
+#### 🚀 O que estou construindo agora
+
+Evoluindo o ecossistema de microsserviços da FCG (Fase 3 do Tech Challenge) rumo a uma arquitetura mais resiliente e observável:
+
+* Implementando **Kong** como API Gateway, centralizando o roteamento e a validação de JWT para os serviços `UsersAPI` e `CatalogAPI`.
+* Adotando persistência poliglota com **MongoDB**, além de **Elasticsearch** para otimizar buscas e consultas de alta performance.
+* Estruturando novos domínios de negócio, como `PedidoAPI` e `BibliotecaAPI`, para aprimorar a separação de responsabilidades e a escalabilidade do sistema.
+
+#### 🏆 Destaques
+
+* **Fase 2 — Do monolito aos microsserviços:** refatorei uma aplicação monolítica em um ecossistema completo de microsserviços orientado a eventos (`Usuários`, `Catálogo`, `Pagamentos` e `Notificações`), usando **MassTransit**, **Dapper**, **EF Core** e comunicação assíncrona via mensageria.
+* **Infraestrutura:** fui responsável por toda a orquestração — criação de imagens Docker independentes para cada serviço e configuração de manifestos Kubernetes (testados em **Minikube**), garantindo alta portabilidade, resiliência no cluster e facilidade de execução e validação local.
+
+---
+#### 🛡️ Boas práticas
+Prezo por versionamento consciente, mantendo meus commits assinados e verificados.
+
+#### ⚡ Curiosidades
+Quando não estou no Visual Studio, provavelmente estou jogando no PlayStation, treinando musculação ou cuidando do meu filhote de Pug! 🐾
+
 
 ## 🌐 Como me achar
 
