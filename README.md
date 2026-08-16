@@ -55,19 +55,5 @@ Quando não estou no Visual Studio, provavelmente estou jogando no PlayStation, 
 </div>
 
 
-## Estatíticas 
-<p>
-    <div align="left">
-      <img
-        height="150em" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexoliveiraferreiradev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-      />
-      <img
-       height="130em" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexoliveiraferreiradev&layout=compact&custom_title=Tecnologias&langs_count=9&theme=dark"
-      />
-    </div>
-</p>
-
 ---
 ⭐️ *Sinta-se à vontade para explorar meus repositórios e deixar uma estrela nos projetos que achar interessantes!*
