@@ -15,14 +15,19 @@ Pós-graduando em **Arquitetura de Sistemas .NET** na FIAP. Modelo domínios com
   * Pipeline de CI/CD com **GitHub Actions**: build, testes, push das imagens e deploy. [confirmar]
   * Front-end em **React + TypeScript** que consome todo o ecossistema pelo Kong.
 
+### 🛠️ Stack
+
 **Back-end:** .NET · C# · EF Core · Dapper · MassTransit
 
-**Dados:** SQL Server · MongoDB · Elasticsearch · Redis
+**Dados e mensageria:** SQL Server · MongoDB · Elasticsearch · Redis · RabbitMQ
 
-**Mensageria:** Azure Service Bus · RabbitMQ
+**Infra:** Docker · Kubernetes · Kong
 
-**Cloud e infra:** Azure · Docker · Kubernetes · Kong
+### 🛡️ Boas práticas
+Commits assinados e verificados, versionamento semântico de mensagens (Conventional Commits).
 
+### ⚡ Fora do código
+PlayStation, musculação e um Pug que manda na casa 🐾
 
 
 ## 🌐 Como me achar
