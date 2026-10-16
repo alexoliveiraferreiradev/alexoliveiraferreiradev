@@ -16,10 +16,14 @@ Pós-graduando em **Arquitetura de Sistemas .NET** na FIAP. Modelo domínios com
   * Front-end em **React + TypeScript** que consome todo o ecossistema pelo Kong.
 
 **Back-end:** .NET · C# · EF Core · Dapper · MassTransit
+
 **Dados:** SQL Server · MongoDB · Elasticsearch · Redis
+
 **Mensageria:** Azure Service Bus · RabbitMQ
+
 **Cloud e infra:** Azure · Docker · Kubernetes · Kong
-**Front-end:** React · TypeScript · Vite
+
+
 
 ## 🌐 Como me achar
 <p align="left">
