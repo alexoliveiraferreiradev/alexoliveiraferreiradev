@@ -1,6 +1,6 @@
 # Alex Oliveira Ferreira
 
-**Desenvolvedor Back-end Pleno · .NET & C# · Microsserviços**
+**Desenvolvedor Back-end Pleno · .NET & C# · Microsserviços · Azure**
 
 Pós-graduando em **Arquitetura de Sistemas .NET** na FIAP. Modelo domínios com Event Storming (Miro) e aplico **DDD**, **Clean Architecture** e **CQRS** em sistemas distribuídos.
 
