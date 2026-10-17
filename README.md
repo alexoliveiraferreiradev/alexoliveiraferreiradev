@@ -9,10 +9,10 @@ Pós-graduando em **Arquitetura de Sistemas .NET** na FIAP. Modelo domínios com
 * **Fase 2: do monolito aos microsserviços.** Refatorei um monolito em serviços orientados a eventos (`Usuários`, `Catálogo`, `Pagamentos`, `Notificações`) com **MassTransit/RabbitMQ**, **EF Core** e **Dapper**, com imagens Docker por serviço e manifestos **Kubernetes** validados no Minikube.
 * **Fase 3: gateway e persistência poliglota.** Coloquei o **Kong** como API Gateway (roteamento, validação de JWT e rate limit), passei a usar **MongoDB** e criei os domínios `PedidoAPI` e `BibliotecaAPI`.
 * **Fase 4 (em andamento): rumo ao Azure.**
-  * Troquei a mensageria de RabbitMQ para **Azure Service Bus** (filas e tópicos gerenciados). Como os serviços já falam via MassTransit, a mudança ficou concentrada na configuração do transporte, sem reescrever produtores nem consumidores. [confirmar]
-  * Publico as imagens no **Azure Container Registry** e faço o deploy no **AKS**. [confirmar]
-  * Guardo segredos e connection strings no **Azure Key Vault**. [confirmar]
-  * Pipeline de CI/CD com **GitHub Actions**: build, testes, push das imagens e deploy. [confirmar]
+  * Troquei a mensageria de RabbitMQ para **Azure Service Bus** (filas e tópicos gerenciados). Como os serviços já falam via MassTransit, a mudança ficou concentrada na configuração do transporte, sem reescrever produtores nem consumidores. 
+  * Publico as imagens no **Azure Container Registry** e faço o deploy no **AKS**. 
+  * Guardo segredos e connection strings no **Azure Key Vault**.
+  * Pipeline de CI/CD com **GitHub Actions**: build, testes, push das imagens e deploy. 
   * Front-end em **React + TypeScript** que consome todo o ecossistema pelo Kong.
 
 ### 🛠️ Stack
