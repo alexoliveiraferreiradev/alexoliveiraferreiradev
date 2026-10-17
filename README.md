@@ -13,7 +13,6 @@ Pós-graduando em **Arquitetura de Sistemas .NET** na FIAP. Modelo domínios com
   * Publico as imagens no **Azure Container Registry** e faço o deploy no **AKS**. 
   * Guardo segredos e connection strings no **Azure Key Vault**.
   * Pipeline de CI/CD com **GitHub Actions**: build, testes, push das imagens e deploy. 
-  * Front-end em **React + TypeScript** que consome todo o ecossistema pelo Kong.
 
 ### 🛠️ Stack
 
